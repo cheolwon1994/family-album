@@ -1,0 +1,9 @@
+.git
+.idea
+.mvn/cache
+target
+uploads
+*.mv.db
+*.trace.db
+*.lock.db
+.env

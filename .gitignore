@@ -1,0 +1,12 @@
+target/
+.mvn/cache/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+*.log
+.env
+/*.mv.db
+/*.trace.db
+/*.lock.db
+/uploads/
