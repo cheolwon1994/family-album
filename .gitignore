@@ -1,12 +1,16 @@
-target/
-.mvn/cache/
-.idea/
-*.iml
-.vscode/
 .DS_Store
-*.log
-.env
+
+# Spring 학습용 문서는 저장소에 올리지 않습니다.
+/docs/spring/*.md
+
+# IDE 및 Gradle 생성 파일
+/.idea/
+/.gradle/
+/build/
+
+# 로컬 실행 데이터
 /*.mv.db
 /*.trace.db
 /*.lock.db
-/uploads/
+
+# Generated artifacts inside the playground app are ignored by its own rules.

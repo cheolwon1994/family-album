@@ -1,0 +1,9 @@
+.git
+.idea
+.gradle
+build
+uploads
+*.mv.db
+*.trace.db
+*.lock.db
+.env
