@@ -1,6 +1,0 @@
-com/example/springserver/config/AdminBootstrapTest.class
-com/example/springserver/invite/FixedInviteCodeGenerator.class
-com/example/springserver/web/WebFlowTest.class
-com/example/springserver/share/ShareServiceTest.class
-com/example/springserver/invite/InviteServiceTest.class
-com/example/springserver/share/FixedShareTokenGenerator.class

@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "spring-learning"
-include(":playground")
+rootProject.name = "family-album"
+include(":family-album")
